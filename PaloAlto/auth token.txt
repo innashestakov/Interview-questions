@@ -1,0 +1,2 @@
+Use this as auth token for creating users/posts:
+2fe83b9f740e64aebc3fae181b4e33b07b5ad8912ef0509f206a49d04e844a83
